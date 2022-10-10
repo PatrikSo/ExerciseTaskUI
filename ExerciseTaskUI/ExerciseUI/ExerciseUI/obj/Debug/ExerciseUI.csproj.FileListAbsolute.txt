@@ -1,0 +1,9 @@
+C:\Users\PatHQ\source\repos\ExerciseTaskUI\ExerciseUI\ExerciseUI\bin\Debug\ExerciseUI.exe.config
+C:\Users\PatHQ\source\repos\ExerciseTaskUI\ExerciseUI\ExerciseUI\bin\Debug\ExerciseUI.exe
+C:\Users\PatHQ\source\repos\ExerciseTaskUI\ExerciseUI\ExerciseUI\bin\Debug\ExerciseUI.pdb
+C:\Users\PatHQ\source\repos\ExerciseTaskUI\ExerciseUI\ExerciseUI\obj\Debug\ExerciseUI.csprojAssemblyReference.cache
+C:\Users\PatHQ\source\repos\ExerciseTaskUI\ExerciseUI\ExerciseUI\obj\Debug\ExerciseUI.Program.resources
+C:\Users\PatHQ\source\repos\ExerciseTaskUI\ExerciseUI\ExerciseUI\obj\Debug\ExerciseUI.csproj.GenerateResource.cache
+C:\Users\PatHQ\source\repos\ExerciseTaskUI\ExerciseUI\ExerciseUI\obj\Debug\ExerciseUI.csproj.CoreCompileInputs.cache
+C:\Users\PatHQ\source\repos\ExerciseTaskUI\ExerciseUI\ExerciseUI\obj\Debug\ExerciseUI.exe
+C:\Users\PatHQ\source\repos\ExerciseTaskUI\ExerciseUI\ExerciseUI\obj\Debug\ExerciseUI.pdb
